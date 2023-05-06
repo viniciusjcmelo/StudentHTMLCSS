@@ -1,0 +1,24 @@
+<html>
+  <head>
+  <title>Tabela</title>
+
+   <body>
+     <table border="3" bordercolor="blue" bgcolor="yellow">
+<tr bgcolor="green">
+<td>Nome</td>
+<td>Sobrenome</td>
+<td>Religião</td>
+<tr bgcolor="red">
+<td>Vinícius</td>
+<td>Melo</td>
+<td>Cristão</td>
+<tr bgcolor= "orange">
+<td>Bruna</td>
+<td>Sarita</td>
+<td>Cristã</td>
+
+</table>
+
+</body>
+
+</html>

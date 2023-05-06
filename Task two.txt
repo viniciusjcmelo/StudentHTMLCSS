@@ -1,0 +1,14 @@
+<HTML>
+ <HEAD>
+   <TITLE>EXERCÍCIO 1</TITLE>
+ </HEAD>
+
+<BODY>
+ <P> <I><FONT FACE="VERDANA"><FONT SIZE="3"><FONT COLOR="rose">Principais Pontos Turistico.<I></font color> </P>
+ <P>Nome: <B>Vinícius J. Costa Melo<B><BR>
+    Nasc.:21 de abril de 1990<BR>
+    End.: Rua do Machado, 41, Centro, Oliveira</P>
+ <P><U>Let`s go man<U></P>
+</BODY>
+
+</HTML>

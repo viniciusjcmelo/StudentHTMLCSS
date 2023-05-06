@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Exercício 3</title>
+</head>
+
+<body>
+<p><b><h1><font face="verdana"><font color=rose>Principais Pontos Turisticos</b></h1><img src="C:\Users\Maria de Fátima\OneDrive\Área de Trabalho\Exercicio\manaus.jpg">
+<ol>
+ <li><b>Jaqueira</b>
+<ul>
+<li>São Joaquim
+<li>Estação
+<li>Serra do Espelho
+</ul>
+</ol>
+<p><i>Essas são as opções da Cidade de Jaqueira</i></p>
